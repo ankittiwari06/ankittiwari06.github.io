@@ -1,1 +1,1 @@
-![Ankit Tiwari](https://github.com/ankittiwari06/ankittiwari06.github.io/images/Ankit Tiwari(CV)-1.jpg?raw=true "Title")
+![Ankit Tiwari](https://drive.google.com/open?id=1xXa8ppkHzirsan-ovW-O4qN0sFJ5lzh2)
