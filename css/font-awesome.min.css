@@ -2191,6 +2191,10 @@
 .fa-meetup:before{
     content:"\f2e0"
 }
+
+.fa-swimmer:before{
+    content:"\f5c5"
+}
 .sr-only{
     position:absolute;
     width:1px;
