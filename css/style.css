@@ -28,6 +28,15 @@ body .wrapper{
     height:100%;
     width:100%
 }
+
+.rectangle {
+  height: 50px;
+  width: 100px;
+  border:solid thick white;
+  border-radius: 0.5em;
+  background-color: #1ccaa2;
+}
+
 a,.button{
     transition:all .5s ease-in-out;
     transition:all .5s ease-in-out;
