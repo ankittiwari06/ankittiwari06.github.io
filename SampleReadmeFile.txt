@@ -148,8 +148,8 @@ Male
 Mr. Rajesh Tiwari
 Indian 
 English, Hindi
-42-A Siddhipuram colony, Near greater vaishali, Indore.
-Flat No.-17, Wing B, SpringfieldSociety,Kharadi,Pune
+Indore.
+Pune
 9993125599
 DECLARATION :
 I hereby declare that the information given above is true to best of my knowledge.
